@@ -1,0 +1,10 @@
+target/
+*.db
+*.db-journal
+.idea/
+.vscode/
+*.class
+*.db-shm
+*.db-wal
+*.iml
+.env
